@@ -9,7 +9,7 @@ A bot coded in C# to allow a twitch chat to play Pokemon online doubles
 # Usage:
 1. Set your information in `settings.txt` but **do not remove or change anything to the left of the = signs**
 *note: you shouldn't have to change switch port, but this is for further customization in the future*
-2. Run `TwitchBotSide.exe` and watch the magic
+2. Run `TwitchPlaysVGC.exe` and watch the magic
 
 # Known Issues:
 1. Unable to do ranked battles, this will be fixed on July 1st, 2020.
